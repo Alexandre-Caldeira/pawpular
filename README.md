@@ -1,4 +1,5 @@
-# Título
+# PetFinder.my Competition - Kaggle
+> Joined on 13/10/21
 
 Coloque a descrição do projeto aqui. Geralmente essa descrição tem de duas a três linhas de tamanho. Ela deve dar uma visão geral sobre o projeto, ex.: tecnologia usada, filosofia de existência, qual problema tenta resolver, etc.
 
